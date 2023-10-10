@@ -1,10 +1,3 @@
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.csproj.AssemblyReference.cache
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.GeneratedMSBuildEditorConfig.editorconfig
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.AssemblyInfoInputs.cache
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.AssemblyInfo.cs
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.csproj.CoreCompileInputs.cache
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cs
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cache
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/appsettings.Development.json
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/appsettings.json
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/backend
@@ -30,6 +23,13 @@
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.csproj.AssemblyReference.cache
+/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.AssemblyInfoInputs.cache
+/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.AssemblyInfo.cs
+/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.csproj.CoreCompileInputs.cache
+/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cache
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/staticwebassets.build.json
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/staticwebassets.development.json
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/obj/Debug/net6.0/scopedcss/bundle/backend.styles.css
@@ -47,5 +47,3 @@
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/System.Text.Encodings.Web.dll
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/System.Text.Json.dll
 /Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/Newtonsoft.Json.dll
-/Users/ezra/Documents/GitHub/oopasprestfulapipostgres/backend/bin/Debug/net6.0/System.Net.WebSockets.WebSocketProtocol.dll
